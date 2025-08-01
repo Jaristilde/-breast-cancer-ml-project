@@ -35,8 +35,13 @@ We want to build a machine learning model that can help doctors identify if a br
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
 🙋🏽‍♀️ Author
 
 Joane Aristilde
 📧 joanearistilde@gmail.com
 💼 LinkedIn
+
+📜 License
+
+MIT License – Free to use and modify
